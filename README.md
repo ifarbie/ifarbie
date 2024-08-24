@@ -12,7 +12,7 @@
 
 🏫 I’m currently studying at **Bina Sarana Informatika University**
 
-🌱 I’m currently learning **Website Development & Data Science**
+🌱 I’m currently learning **Website Development**
 
 📫 You can reach me on **farizrifkyberliano@gmail.com**
 
