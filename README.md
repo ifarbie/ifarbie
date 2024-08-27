@@ -33,19 +33,19 @@
 
 <h3>🔷 Languages :</h3>
 <p align="center" style="padding:5px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,go" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,go" />
 </p>
 <h3>🔷 Frameworks / Libraries :</h3>
 <p align="center" style="padding:5px;">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vue,react" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vue,react,next,express" />
 </p>
 <h3>🔷 Databases :</h3>
 <p align="center" style="padding:5px;">
-  <img src="https://skillicons.dev/icons?i=mysql"  />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis"  />
 </p>
 <h3>🔷 Tools :</h3>
 <p align="center" style="padding:5px;">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,firebase,nodejs" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,nodejs" />
 </p>
 
 </div>
